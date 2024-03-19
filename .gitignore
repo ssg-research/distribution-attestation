@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+log/
+data/
+results/
+__pycache__/
+plots/
+*/__MACOSX/

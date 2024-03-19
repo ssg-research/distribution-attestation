@@ -1,0 +1,20 @@
+name: property-attestation
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - matplotlib
+  - captum
+  - pandas
+  - pytorch=1.9.0
+  - scipy
+  - pip
+  - torchvision
+  - tqdm
+  - scikit-learn
+  - requests
+  - pip:
+    - ogb
+    - dgl-cu101
